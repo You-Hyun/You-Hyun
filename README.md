@@ -1,10 +1,12 @@
-# **You-Hyun Baek*
+# ***You-Hyun Baek***
 **KMA/NIMS AI Meteorological Research Division**
+
 **Research Scientist**
 
-33, Seohobuk-ro, Seogwipo-si, Jeju-do, 63568, Reoublic of KOREA
-Tel:  +82-64-780-6754 
-E-mail: yhbaek88@korea.kr/baekyouhyun@gmail.com
+*33, Seohobuk-ro, Seogwipo-si, Jeju-do, 63568, Reoublic of KOREA*
+
+*E-mail: **yhbaek88@korea.kr / baekyouhyun@gmail.com***
+*Homepage: www.nims.go.kr / 
 
 ## Education
 
