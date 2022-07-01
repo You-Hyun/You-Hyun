@@ -1,6 +1,10 @@
-# **백유현(You-Hyun Baek)**
-**국립기상과학원 인공지능기상연구과**
-기상연구사
+# **You-Hyun Baek*
+**KMA/NIMS AI Meteorological Research Division**
+**Research Scientist**
+
+33, Seohobuk-ro, Seogwipo-si, Jeju-do, 63568, Reoublic of KOREA
+Tel:  +82-64-780-6754 
+E-mail: yhbaek88@korea.kr/baekyouhyun@gmail.com
 
 ## Education
 
