@@ -1,4 +1,4 @@
-### 🔭 I’m currently working on 
+### 🔭 I am a research scientist at the KMA/NIMS AI Meteorological Research Division
 
 <!--
 **You-Hyun/You-Hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
