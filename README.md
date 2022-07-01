@@ -1,4 +1,11 @@
-### 🔭 I am a research scientist at the KMA/NIMS AI Meteorological Research Division
+# 백유현(You-Hyun Baek)
+
+## Education
+
+## Work Experience
+
+
+I am a research scientist at the KMA/NIMS AI Meteorological Research Division
 https://sciprofiles.com/profile/YHBaek
 
 <!--
