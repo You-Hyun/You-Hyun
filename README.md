@@ -3,13 +3,17 @@
 
 **Research Scientist**
 
-*33, Seohobuk-ro, Seogwipo-si, Jeju-do, 63568, Reoublic of KOREA*
+*33, Seohobuk-ro, Seogwipo-si, Jeju-do, 63568, Republic of KOREA*
 
 *E-mail: **yhbaek88@korea.kr / baekyouhyun@gmail.com***
 
-*Homepage: www.nims.go.kr / https://sciprofiles.com/profile/YHBaek*
+*Homepage: https://sciprofiles.com/profile/YHBaek*
 
 ## Education
+2016.03. ~          Ph.D. Candidate Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea 
+2013.08. ~ 2016.02. M.Sc. Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea
+2007.03. ~ 2013.08. B.Sc. Department of Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Republic of Korea
+
 
 ## Work Experience
 
