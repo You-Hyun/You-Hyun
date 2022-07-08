@@ -10,21 +10,18 @@
 *Homepage: https://sciprofiles.com/profile/YHBaek*
 
 ## Education
-2016.03. ~          
-Ph.D. Candidate 
-Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea 
+- 2016.03. ~　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**Ph.D. Candidate** Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea 
 
-2013.08. ~ 2016.02. 
-M.Sc.
-Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea
-2007.03. ~ 2013.08.
-B.Sc. 
-Department of Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Republic of Korea
+- 2013.08. ~ 2016.02. **M.Sc.** Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju National University, Republic of Korea
+
+- 2007.03. ~ 2013.08. **B.Sc.** Department of Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Republic of Korea
 
 ## Work Experience
-
-
-I am a research scientist at the KMA/NIMS AI Meteorological Research Division
+- 2022.03. ~　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**Research Scientist**, AI Meteorological Research Division, National Institute of Meteorological Sciences, Republic of Korea
+- 2019.01. ~ 2022.02.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**Researcher**, Typhoon Research Center, Jeju National University, Republic of Korea
 
 
 <!--
