@@ -39,6 +39,32 @@ Typhoon Research Center, Jeju National University, Republic of Korea
 2. **Encouragement Award**, The 3rd Meteorological Satellite Application Research Contest, *National Meteorological Satellite Center (NMSC)*, 15 Nov. 2017.
 
 
+## Presentations 
+1.	Jung, H.-Y., Moon, I.-J., **Baek, Y.-H.**, Im, J., Lee, J., Park, J.-D., and Kim, D.-H. (2022). Estimation of Typhoon intensity based on Deep Learning and Transfer Learning Using Geostationary Satellite Images, *The 3rd Korea Geoscience Union (KGU) Annual Meeting* (17-19 Aug. 2022).
+2.	Jung, H.-Y., Moon, I.-J., **Baek, Y.-H.**, Im, J., Lee, J., and Park, J.-D. (2022). Estimation of TCs intensity from GK2A imagery using AI transfer learning technique, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (2-4 Jun. 2022).
+3.	**Baek, Y.-H.**, Moon, I.-J., Im, J., and Lee, J. (2021). Development of an integrated model for estimating Tropical Cyclone Intensity and Size based on Deep Learning using Geostationary Satellite Imagery, *The Korean Society of Oceanography Conference* (4-5 Nov. 2021).
+4.	**Baek, Y.-H.**, Moon, I.-J., Im, J., and Lee, J. (2021). Tropical Cyclone size estimation model based on Artificial Intelligence using Geostationary Satellite Imagery, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (13-14 May 2021).
+5.	**Baek, Y.-H.**, Moon, I.-J., Kim, D.-H., Ham, Y.-G., and Kim, J.-H. (2020). Application of various Artificial Intelligence techniques for El Nino Prediction, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (22-23 Jul. 2020).
+6.	**Baek, Y.-H.****, and Moon, I.-J. (2020). Accuracy of satellite composite and model reanalysis daily SST at the seas adjacent to the Korean Peninsular, *The 16th Japan-Korea Joint Seminar on Ocean Sciences* (20-21 Jan. 2020).
+7.	**Baek, Y.-H.**, and Moon, I.-J. (2019). Accuracy of Satellite Composite and Model Reanalysis Daily SST at the Seas Adjacent to the Korean Peninsular, *The Korean Society of Oceanography Conference* (31 Oct. – 1 Nov. 2019).
+8.	**Baek, Y.-H.**, Moon, I.-J., and Kim, D.-H. (2019). Accuracy of Satellite Composite and Model Reanalysis Daily SST at the Seas Adjacent to the Korean Peninsular, *The 2nd Korea Geoscience Union (KGU) Annual Meeting* (3-5 Jul. 2019).
+9.	**Baek, Y.-H.**, and Moon, I.-J. (2019). Estimation of the satellite-based upper-ocean temperature profile in the western North Pacific for the application to tropical cyclone intensity predictions, *International Workshop on Tropical Cyclone-Ocean Interaction in the Northwest Pacific (TCOI)* (19-21 Jun. 2019).
+10.	**Baek, Y.-H.**, and Moon, I.-J. (2019). An increase of super-typhoon and northward extension of their passages in western-North Pacific, *The 20th Pacific-Asian Marginal Seas (PAMS) Meeting* (18-22 Mar. 2019).
+11.	**Baek, Y.-H.**, Moon, I.-J., Chung, C.-Y., and Mo H.-S. (2018). Method for estimating ocean temperature profile based on satellite products, *14th Pan Ocean Remote Sensing Conference (PORSEC)* (4-7 Nov. 2018).
+12.	Ko, E.-B., Moon, I.-J., and **Baek, Y.-H.** (2018). Factors determining the intensity of Tropical Cyclone landfall on the Korean Peninsula: via typhoon-ocean couple numerical model, *The Korean Society of Oceanography Conference* (25-26 Oct. 2018).
+13.	**Baek, Y.-H.**, and Moon, I.-J. (2018). An Increase of Super-Typhoon and Northward Extension of Their Passages in the Western-North Pacific, *15th Annual Meeting Asia Oceania Geosciences Society (AOGS)* (3-8 Jun. 2018).
+14.	**Baek, Y.-H.**, Moon, I.-J., Chung, C.-Y., and Mo H.-S. (2018). Development of upper-ocean temperature profile calculation algorithm using sea surface height anomaly (SSHA) data, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (24-25 May 2018).
+15.	**Baek, Y.-H.**, Moon, I.-J., Chung, C.-Y., Baek, S.-K., and Mo H.-S. (2017). Development of a satellite-based upper ocean temperature profile calculation algorithm in the northwestern Pacific, *Autumn Meeting of Korean Meteorological Society (KMS)* (25-27 Oct. 2017).
+16.	**Baek, Y.-H.**, and Moon, I.-J. (2017). Accuracy of Satellite Composite and Model Reanalysis Daily SST at the Seas Adjacent to the Korean Peninsular, *14th Annual Meeting Asia Oceania Geosciences Society (AOGS)* (6-11 Aug. 2017).
+17.	**Baek, Y.-H.**, and Moon, I.-J. (2017). Accuracy of Satellite Composite and Model Reanalysis Daily SST at the Seas Adjacent to the Korean Peninsular, *The 19th Pacific-Asian Marginal Seas (PAMS) Meeting* (12-13 Apr. 2017). 
+18.	**Baek, Y.-H.**, Moon, I.-J., Chung, C.-Y., Baek, S.-K., and Mo H.-S. (2016). Evaluation of COMS-derived SST via GTS drifting Buoy SSTs, *Autumn Meeting of Korean Meteorological Society (KMS)* (31 Oct. - 2 Nov. 2016).
+19.	**Baek, Y.-H.**, Moon, I.-J., and Kim, D.-H. (2015). Diurnal variations of sea surface temperature around the Korean peninsular, *Asian conference on Meteorology (ACM)* (26-27 Oct. 2015).
+20.	**Baek, Y.-H.**, and Moon, I.-J. (2015). Characteristics of Diurnal variation in Sea Surface Temperature around the Korean Peninsular, *Autumn Meeting of Korean Meteorological Society (KMS)* (12-14 Oct. 2015).
+21.	**Baek, Y.-H.**, and Moon, I.-J. (2015). Characteristics of Diurnal variation in Sea Surface Temperature (SST) around the Korean Peninsular, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (21-23 May 2015).
+22.	Lee, S.-Y., Moon, I.-J., and **Baek, Y.-H.** (2015). Verification of Satellite-derived SST (Level-2) data in the northwestern Pacific, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (21-23 May 2015).
+23.	**Baek, Y.-H.**, and Moon, I.-J. (2014). Validations of daily SST grid data around the Korean peninsula, *The Korean Association of Ocean Science and Technology Societies (KAOSTS) Joint Conference* (22-23 May 2014).
+24.	**Baek, Y.-H.**, and Moon, I.-J. (2014). Verification of satellite- and numerical model- derived SST around the Korean Peninsula, *Spring Meeting of Korean Meteorological Society (KMS)* (8-9 May 2014).
+
 
 
 
