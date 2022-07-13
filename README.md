@@ -17,7 +17,7 @@ Graduate School of Interdisciplinary Program in Marine Meteorology, Jeju Nationa
 - 2007.03. ~ 2013.08.   　**B.Sc.**   
 Department of Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Republic of Korea
 
-## Work Experience
+## Work Experiences
 - 2022.03. ~ 　　　　　　**Research Scientist**   
 AI Meteorological Research Division, National Institute of Meteorological Sciences, Republic of Korea
 
