@@ -35,7 +35,7 @@ Typhoon Research Center, Jeju National University, Republic of Korea
 1. Kim, K.-I., **Baek, Y.-H.**, Kim, D.-H., Moon, I.-J., and Kang, Y.-H. (2021), Numerical Analysis – Development of Power Quality classification model to respond to Power facility failures, Ranked 10 out of 63 teams (**top 15.8%**), *AI Online Contest-National IT Industry Promotion Agency (NIPA)* (21 Jun. – 2 Jul. 2021).
 
 ## Awards
-1. **Best Student Poster Award**, Best Student Poster Award in Physical Oceanography, *The Koran Society of Oceanography*, 25 Oct. 2018.
+1. **Best Student Poster Award**, Best Student Poster Award in Physical Oceanography, *The Korean Society of Oceanography*, 25 Oct. 2018.
 2. **Encouragement Award**, The 3rd Meteorological Satellite Application Research Contest, *National Meteorological Satellite Center (NMSC)*, 15 Nov. 2017.
 
 
