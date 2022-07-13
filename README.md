@@ -29,7 +29,7 @@ Typhoon Research Center, Jeju National University, Republic of Korea
 
 2. **Baek, Y.-H.**, and Moon, I.-J. (2019). The accuracy of satellite-composite GHRSST and model-reanalysis sea surface temperature data at the seas adjacent to the Korean Peninsula. *Ocean and Polar Research*, 41(4), 213-232. 
 
-3. **Baek, Y.-H.**, and Moon, I.-J. (2019). Estimation of satellite-based upper-ocean temperature profile in the western North Pacific and its application to tropical cyclone intensity predictions. *Journal of Coastal Research*, 90(SI), 261-266.
+3. **Baek, Y.-H.**, and Moon, I.-J. (2019). Estimation of satellite-based upper-ocean temperature profile in the western North Pacific and its application to tropical cyclone intensity predictions. *Journal of Coastal Research*, 90(SI), 261-266. [☞ Link](https://github.com/You-Hyun/You-Hyun/blob/main/Publications/JCR_Baek%20and%20Moon%2C%202019.pdf) 
 
 ## Machine Learning Competition
 1. Kim, K.-I., **Baek, Y.-H.**, Kim, D.-H., Moon, I.-J., and Kang, Y.-H. (2021), Numerical Analysis – Development of Power Quality classification model to respond to Power facility failures, Ranked 10 out of 63 teams (**top 15.8%**), *AI Online Contest-National IT Industry Promotion Agency (NIPA)* (21 Jun. – 2 Jul. 2021).
